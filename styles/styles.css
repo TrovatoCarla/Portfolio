@@ -8,6 +8,9 @@ body{
     margin: 0;
 }
 
+.nav-item{
+    background-color: #FCF6D2;
+}
 
 header{
     background-color: rgb(87, 155, 155);
